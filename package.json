@@ -1,0 +1,31 @@
+{
+    "name": "chatroom",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "animate.css": "^4.1.1",
+        "axios": "^0.21.1",
+        "core-js": "^3.6.5",
+        "firebase": "^8.6.1",
+        "moment": "^2.29.1",
+        "vue": "^3.0.0",
+        "vue-axios": "^3.2.4",
+        "vue-chat-scroll": "^1.4.0",
+        "vue-router": "^4.0.0-0",
+        "vue3-use-axios": "^0.2.2"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-plugin-router": "~4.5.0",
+        "@vue/cli-service": "~4.5.0",
+        "@vue/compiler-sfc": "^3.0.0"
+    },
+    "description": "## Project setup ``` npm install ```",
+    "main": "babel.config.js",
+    "author": "",
+    "license": "ISC"
+}
